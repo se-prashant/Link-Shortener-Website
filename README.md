@@ -8,7 +8,7 @@ Built with JavaScript, HTML, CSS, and Bootstrap
 
 ## Screenshots and demo
 <a href="https://linkshortnerjs.herokuapp.com/index.html"> Live Demo LinkShortener</a>
-![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
+![Alt text](/snapshot.png?raw=true "Optional Title")
 ## Installation
 
 ## License
